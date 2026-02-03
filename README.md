@@ -6,6 +6,7 @@ A full-stack AI-powered application that analyzes skin health from a selfie and 
   <img src="frontend/public/logo.png" alt="AI Skincare Logo" width="100" />
 </p>
 
+### Live Demo: https://huggingface.co/spaces/TyageshParmar/AI-Skincare
 ## 🌟 Features
 
 - **AI Skin Analysis**: Calculates skin brightness score using image processing.
@@ -140,3 +141,4 @@ The backend provides interactive documentation via **Swagger UI**.
 - **Camera not working?**: Ensure your browser has permission to access the camera.
 - **Dependency import error?**: Run `npm install` inside the frontend folder again.
 - **API Error?**: Check if your Groq API Key is correct in `backend/.env`.
+
